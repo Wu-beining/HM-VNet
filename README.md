@@ -126,4 +126,4 @@ Our multi-modal fusion network achieves a leading **C-index** for survival predi
 | Lyn’s                 | 0.6032 ± 0.0869     |
 | Ours (without Task 1) | _0.6826 ± 0.0578_   |
 | **Ours (with Task 1)**| **0.7045 ± 0.0568** |
-<
+
