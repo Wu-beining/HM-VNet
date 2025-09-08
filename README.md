@@ -25,8 +25,6 @@ We integrate the two tasks within a single pipeline. First, the segmentation mod
 ![](https://github.com/Wu-beining/HM-VNet/blob/main/img/HECKTORv3.png)
 <br><br>
 
-The overall framework of **MST-KDNet**. The Teacher propagation processes all available modalities, while the student propagation accommodates incomplete inputs.
-
 ## Table of Contents
 - [Requirements](#-Requirements)
 - [Training](#-Training)
