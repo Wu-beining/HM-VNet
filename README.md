@@ -22,7 +22,7 @@ We design a **deep multi-modal fusion network** that integrates raw imaging (PET
 We integrate the two tasks within a single pipeline. First, the segmentation model extracts lesion-centric representations; these features are then fused with the original imaging modalities and clinical tabular data to produce the final survival risk estimates.
 
 <br><br>
-![](./imgs/fig1.png)
+![](./HECKTORv3.png)
 <br><br>
 
 The overall framework of **MST-KDNet**. The Teacher propagation processes all available modalities, while the student propagation accommodates incomplete inputs.
