@@ -20,10 +20,7 @@ We design a **deep multi-modal fusion network** that integrates raw imaging (PET
 ## Proposed method
 
 We integrate the two tasks within a single pipeline. First, the segmentation model extracts lesion-centric representations; these features are then fused with the original imaging modalities and clinical tabular data to produce the final survival risk estimates.
-
-<br><br>
 ![](https://github.com/Wu-beining/HM-VNet/blob/main/img/HECKTORv3.png)
-<br><br>
 
 ## Table of Contents
 - [Requirements](#-Requirements)
