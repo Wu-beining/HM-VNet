@@ -1,5 +1,4 @@
-# HM-VNet: A Hierarchical Multi-modal Vision Network for Head-and-Neck Tumor Segmentation and Survival Prediction
-
+# HM-VNet
 
 This repository provides the official implementation of our submission to the **HECKTOR 2025 Challenge**. We present a unified framework that leverages PET/CT imaging to address two core tasks in head-and-neck cancer analysis: (1) **automatic segmentation** of primary tumors and metastatic lymph nodes, and (2) **recurrence-free survival (RFS) prediction**. 
 
