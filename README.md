@@ -1,5 +1,3 @@
->📋 For code accompanying Hierarchical Multi-modal Vision Network of the paper
-
 # HM-VNet: A Hierarchical Multi-modal Vision Network for Head-and-Neck Tumor Segmentation and Survival Prediction
 
 
